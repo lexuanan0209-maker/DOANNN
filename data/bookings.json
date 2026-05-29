@@ -1,0 +1,38 @@
+[
+    {
+        "customer": {
+            "name": "AN",
+            "cccd": "12",
+            "phone": "12"
+        },
+        "room_id": "11",
+        "checkin": "2026-05-28",
+        "checkout": "2026-05-29",
+        "total_price": 500000,
+        "status": "Đã thanh toán"
+    },
+    {
+        "customer": {
+            "name": "Nguyễn Lê Bảo Ngọc",
+            "cccd": "06020500999",
+            "phone": "0312412412"
+        },
+        "room_id": "11",
+        "checkin": "2026-05-29",
+        "checkout": "2026-05-30",
+        "total_price": 500000,
+        "status": "Đã thanh toán"
+    },
+    {
+        "customer": {
+            "name": "",
+            "cccd": "",
+            "phone": ""
+        },
+        "room_id": "11",
+        "checkin": "2025-02-21",
+        "checkout": "2026-03-21",
+        "total_price": 500000,
+        "status": "Đã thanh toán"
+    }
+]
